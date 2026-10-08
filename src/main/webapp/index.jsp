@@ -8,6 +8,7 @@
     <h1>Examen final - Exos 2 - A18</h1>
     <h2>Déploiement Jenkins avec Tomcat</h2>
     <p>Application Jakarta EE déployée avec succès !</p>
+    <p>* Ça fonctionne! *</p>
 </body>
 </html>
 
